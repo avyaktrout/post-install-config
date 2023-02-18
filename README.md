@@ -42,7 +42,7 @@ After making a new department we will set up a new team. Teams allow you to pull
 Now that a new team is set up we will now create a new setting that will allow anyone to create tickets. To do so go to Admin Panel-->Settings-->User Settings. 
 </p>
 <p>
-<img src="https://i.imgur.com/T0JbwKT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cc1pV2a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
